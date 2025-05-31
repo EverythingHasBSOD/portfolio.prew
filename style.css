@@ -1,0 +1,70 @@
+/* css code start */
+
+/* system font and default configuration */
+html {
+   padding: 0px;
+   margin: 0px;
+    font-family:'GorDIN', 'Bahncshrift SemiBold', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+.holder_creditsBOX {text-align: center;}
+
+.txt_header {margin-left: 100px;}
+
+a {
+    margin: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #9c9c9c;
+    margin-top: 22px;
+    text-decoration: none;
+    gap: 10px;
+    margin-left: 14px;
+    margin-right: 14px;
+}
+
+/* button style start */
+button {background-color: blue ;
+color: white;
+border-radius: 10px;
+padding: 10px;
+box-shadow: 2px 2px 10px rgb(120, 119, 119);
+font-family:'GorDIN', 'Bahncshrift SemiBold', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+
+.paragraph {margin-left: 50px;
+margin-right: 50px;}
+
+img {
+    float: right;
+    margin-right: 15px;
+    border-radius: 5%;
+}
+
+button:hover {
+    font-family: 'GorDIN', 'Bahnschrift', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: green;
+    border-radius: 20px;
+    color: white;
+    border: gold 5px solid;
+    transition: 1s;
+}
+/* button style end */
+
+/* credit style code */
+.cr01 {color: blue;
+text-decoration: underline;}
+
+nav {
+    background-color: #1b1b1b;
+    width: 1100px;
+    height: 70px;
+    margin: 0 auto;
+    left: 85px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+body {background-color: #080808;}
+
+
+/* css code end */
