@@ -70,6 +70,15 @@ img {
   margin-left: 150px;
 }
 
+/* button:not:hover {
+  background-color: #62ba1b ;
+color: white;
+border-radius: 5px;
+border: 1px solid #62ba1b;
+padding: 10px;
+box-shadow: 2px 2px 10px #62ba1b;
+} */
+
 /* .bottom_box {
   position: fixed;
   /* bottom: 0px;
@@ -122,7 +131,8 @@ text-decoration: underline;}
 .tnav {
    position: fixed;
   top: 0;
-  margin-left: 30px;
+  margin-left: 140px;
+  flex-direction: column;
 }
 
 nav {
